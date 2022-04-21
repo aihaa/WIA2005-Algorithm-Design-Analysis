@@ -1,3 +1,5 @@
+# code by Group 7 (Hanan Nizam)
+
 def counting_Sort(input):
    # Find the maximum element in the inputArray
    maxEl= max(input)
