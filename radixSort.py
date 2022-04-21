@@ -1,4 +1,4 @@
-#Radix Sort in Python
+#code by Group 7 (Athirah Lokman)
 
 #Using counting sort to sort the elements in the basis of significant places
 def countingSort(array,place):
