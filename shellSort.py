@@ -1,4 +1,4 @@
-#code by group 7 (Athirah Lokman)
+#code by group 7 (Aiman Fatihah)
 
 def shell_sort(arr):
     size = len(arr)
